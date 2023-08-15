@@ -1,0 +1,10 @@
+details.input_details {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    padding: 4px;
+    margin-bottom: 4px;
+}
+
+details.input_details[open] {
+    border: 1px solid #ccc;
+}
