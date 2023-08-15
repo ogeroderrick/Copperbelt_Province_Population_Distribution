@@ -23,12 +23,12 @@ This project aims to analyze the spatial distribution of population in Copperbel
 
 1. Clone this repository:
 ```
-# git clone https://github.com/your-username/your-repository.git
+ git clone https://github.com/your-username/your-repository.git
 ```
 
 2. Install any required dependencies using `pip`: 
 ```
-# pip install numpy pandas geopandas rasterio
+ pip install numpy pandas geopandas rasterio
 ```
 3. Use GIS software (e.g., QGIS) to visualize and process the provided geospatial datasets.
 
